@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
+.venv/
+HPC-test-output.txt
